@@ -1,5 +1,5 @@
 # 2017-12 Raleigh Puppet User Group Meeting notes
-+ [This RPUG December meeting on meetup.com](https://www.meetup.com/Raleigh-Puppet-User-Group/events/243275400/
++ [This RPUG December meeting on meetup.com](https://www.meetup.com/Raleigh-Puppet-User-Group/events/243275400/)
 
 ## RPUG News
 + [Next meeting is Monday January 8 at Arista Networks in Cary](https://www.meetup.com/Raleigh-Puppet-User-Group/events/245647135/)
