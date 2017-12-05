@@ -1,10 +1,11 @@
 # 2017-12 Raleigh Puppet User Group Meeting notes
++ [This RPUG December meeting on meetup.com](https://www.meetup.com/Raleigh-Puppet-User-Group/events/243275400/
 
 ## RPUG News
 + [Next meeting is Monday January 8 at Arista Networks in Cary](https://www.meetup.com/Raleigh-Puppet-User-Group/events/245647135/)
 
 ## Puppet ecosystem software announcements and news bits
-+ [Foreman 1.6.0 released](https://groups.google.com/forum/?fromgroups#!topic/foreman-announce/RW3n6y9klR8)
++ [Foreman 1.16.0 released](https://groups.google.com/forum/?fromgroups#!topic/foreman-announce/RW3n6y9klR8)
   - includes Puppet 5 support
   - drops Puppet 3 support (installer modules)
 + [Bolt 0.9.0 released](https://groups.google.com/forum/#!topic/puppet-announce/tOV04aniHNA)
