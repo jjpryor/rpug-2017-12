@@ -51,3 +51,4 @@ I've examined and used just about all of these and this is what I would use in m
 + https://forge.puppet.com/puppetlabs/lvm
 + https://forge.puppet.com/icinga/icinga2
 + https://forge.puppet.com/puppet/autofs
++ https://forge.puppet.com/simp
